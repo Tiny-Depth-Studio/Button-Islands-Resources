@@ -20,6 +20,6 @@ which is the value to put in the item definition's `icon_url` / `icon_url_large`
 PNG, square, 1024 x 1024 with transparency (the Clicker Ore icons use the same size).
 Item def ids and grants must match the game's store catalog and the game server's product catalog.
 
-The diamond pack icons are the studio's own art: Clicker Ore's `StoreDiamonds_1, 2, 3, 4, 6` with the
-blue gems recoloured pink, the same images the game's store cards use. Only art the studio owns goes
+The diamond pack icons are the studio's own art, the same images the game's store cards use
+(`it_diamonds_<amount>.png` in the game: three gems, small heap, big mound, sack, vault). Only art the studio owns goes
 here; Unity Asset Store GUI pack art must not be committed to this public repository.
