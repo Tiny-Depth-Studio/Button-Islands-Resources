@@ -1,10 +1,10 @@
-# The Last Button Resources
+# Button Islands Resources
 
-Public images for The Last Button that Steam has to fetch from a URL, mainly the Steam
+Public images for Button Islands that Steam has to fetch from a URL, mainly the Steam
 Inventory item icons of the in-app purchases. Same layout as `Clicker-Ore-Resources`.
 
 Files are served from
-`https://raw.githubusercontent.com/Tiny-Depth-Studio/The-Last-Button-Resources/main/<path>`,
+`https://raw.githubusercontent.com/Tiny-Depth-Studio/Button-Islands-Resources/main/<path>`,
 which is the value to put in the item definition's `icon_url` / `icon_url_large`.
 
 ## Expected files
